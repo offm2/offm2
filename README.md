@@ -40,6 +40,7 @@ Sou um programador independente focado na criação de **jogos retro, motores de
 * **SourceForge:** [offm no SourceForge](https://sourceforge.net/u/offm/)
 * **itch.io:** [themostimportantperson.itch.io](https://themostimportantperson.itch.io/)
 * **Outras Plataformas:** [Payhip]( https://payhip.com/MobileRetroG)
+  **Mais sobre mim:** [Sobre mim](https://classicosdeleitura.com/sobre.php)
 
 ---
 
