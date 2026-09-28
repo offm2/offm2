@@ -1,8 +1,25 @@
 # Olá, sou o Oscar mais conhecido no mundo digital por offm 👋
 
-> **Desenvolvedor Independente | Criador de Jogos Retro | Editor & Arquivista Digital**
+Desenvolvedor Full-Stack, Técnico de TI e criador de produtos digitais com experiência em **Python**, **C#**, **PHP**, **SQL** e sistemas de gestão/faturação.
 
-Sou um programador independente focado na criação de **jogos retro, motores de gamebooks/livros-jogo interativos e plataformas virtuais para literatura clássica**. Adoro construir software leve, otimizado e funcional — desde aplicações em linha de comandos e scripts em PHP/Python até motores 3D em C++.
+---
+
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python, C#, PHP, C, SQL, JavaScript, HTML5/CSS3
+- **Frameworks & UI:** PyQt, Tkinter, Kivy, c#, WPF, Bootstrap
+- **Bases de Dados:** MySQL, MSSQL, SQLite
+- **APIs & Integrações:** REST Web APIs, Integradores ERP (PHC, Iportaldoc), ZPL
+- **Outros:** GitHub, Linux, Cloudflare, E-schooling
+- **Plataformas & Ferramentas**  Buildozer (Android), Git, Command Line Tools |
+
+---
+
+### 🚀 Projetos em Destaque
+
+- **[Programa de Faturação & Gestão Commercial]**: Sistema de gestão comercial com controlo de stocks, compras, vendas e emissão de faturas em PDF (PHP, MySQL/MSSQL).
+- **[PHC DLL & Web REST API]**: Integração em C# para consulta de faturas e artigos diretamente do ERP PHC.
+- **[ZPL Converter & Python Utils]**: Conversor de etiquetas ZPL para PNG e utilitários de validação de NIF e EAN-13.
+- **[Clássicos de Leitura]**: Plataforma e motor web de leitura de obras em domínio público e gamebooks interativos.
 
 ---
 
@@ -23,14 +40,6 @@ Sou um programador independente focado na criação de **jogos retro, motores de
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | PHP 8, Python, C++, JavaScript (ES6+), HTML5, CSS3, SQL |
-| **Bibliotecas / Frameworks** | Kivy, Raylib, Pyxel,QT , PyGame, Tkinter|
-| **Bases de Dados** | SQLite, MySQL |
-| **Plataformas & Ferramentas** | Cloudflare, Buildozer (Android), Git, Command Line Tools |
 
 ---
 
@@ -41,6 +50,7 @@ Sou um programador independente focado na criação de **jogos retro, motores de
 * **itch.io:** [themostimportantperson.itch.io](https://themostimportantperson.itch.io/)
 * **Outras Plataformas:** [Payhip]( https://payhip.com/MobileRetroG)
 * **Mais sobre mim:** [Sobre mim](https://classicosdeleitura.com/sobre.php)
+*
 
 ---
 
