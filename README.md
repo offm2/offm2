@@ -50,7 +50,6 @@ Desenvolvedor Full-Stack, Técnico de TI e criador de produtos digitais com expe
 * **itch.io:** [themostimportantperson.itch.io](https://themostimportantperson.itch.io/)
 * **Outras Plataformas:** [Payhip]( https://payhip.com/MobileRetroG)
 * **Mais sobre mim:** [Sobre mim](https://classicosdeleitura.com/sobre.php)
-*
 
 ---
 
